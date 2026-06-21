@@ -6,8 +6,8 @@
 #include <Preferences.h>
 
 // === Wi-Fi config ===
-const char* ssid = "Home_wifi";
-const char* password = "ThePassword?";
+const char* ssid = "Your_Home_wifi";
+const char* password = "ThePassword_PutItHere";
 const int udpPort = 5555;
 WiFiUDP udp;
 IPAddress broadcastIP;
