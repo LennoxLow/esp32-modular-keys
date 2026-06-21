@@ -8,7 +8,8 @@ This project appeared in my YouTube video:
 [![I automated making meme compilations so I never have to watch Reddit again](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 And yes — it's also on Instructables 👀
-https://www.instructables.com/member/lennoxlow/
+[[LennoxLow/Automatic-Meme-Compilation-Creator](https://www.instructables.com/member/lennoxlow/)]
+
 
 ---
 
