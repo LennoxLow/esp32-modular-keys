@@ -48,7 +48,7 @@ Press any button on any module. Everything reacts.
 |------|-------|
 | ESP32 (any variant) | One per module |
 | Tactile push button | Wired to GPIO6 and GND |
-| SSD1306 OLED (128×64) | I²C, address 0x3C |
+| 0.66 Inch OLED  | I²C, address 0x3C |
 | Jumper wires | For the bus between modules |
 | USB cable | Flashing and power |
 | 3D printed enclosure | Optional but satisfying |
