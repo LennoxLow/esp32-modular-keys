@@ -5,7 +5,7 @@
 
 ## 🎬 As Seen In
 This project appeared in my YouTube video:
-[![I automated making meme compilations so I never have to watch Reddit again](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![I automated making meme compilations so I never have to watch Reddit again](https://img.youtube.com/vi/LXZIZYsod2A/hqdefault.jpg)](https://www.youtube.com/watch?v=LXZIZYsod2A) 
 
 And yes — it's also on Instructables 👀
 [[Happy Modular HotKeys](https://www.instructables.com/Happy-Modular-HotKeys-ESP32/)]
